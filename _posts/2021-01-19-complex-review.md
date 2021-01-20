@@ -3,7 +3,9 @@ layout: post
 ---
 
 ## Review of Complex Numbers
+
 ### Basic Definition
+
 A **complex number** is a number of the form
 
 $$z = x + iy,\quad\text{where $x$ and $y$ are real-valued}.$$
@@ -53,6 +55,7 @@ $$
 The **complex conjugate** of a complex number $$z = x + iy$$ is $$\overline z = x-iy$$.  Note that we multiplied and divided by the complex conjugate of $$5+7i$$ above in order to o simplify the denominator.  
 
 ### Geometric point of view
+
 Just as the real numbers are geometrically arranged into the real line $$\mathbb R$$, the complex numbers naturally form a plane $$\mathbb C$$ called the **complex plane**.  All planes look the same, so we're really looking at something identical to the $$x,y$$-plane $$\mathbb R^2$$.  A complex number $$x+iy$$ corresponds to the point $$(x,y)$$ in $$\mathbb R^2$$.
 The **norm of a complex number** is the distance of the point in the complex plane from the origin
 
