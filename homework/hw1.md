@@ -5,7 +5,7 @@ permalink: /homework/hw1
 ---
 
 ### Directions
-Solve the following problems and type up your solutions.  Your solutions should be typed up and submitted in $$\LaTeX$$.
+Solve the following problems and type up your solutions.  Your solutions should be typed up in $$\LaTeX$$ and submitted as a PDF.
 
 Problem 1: (Fraleigh Section 0 Problem 11) List the elements in $$\{a,b,c\}\times\{1,2,c\}$$.
 
