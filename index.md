@@ -21,7 +21,7 @@ title: Math 407 Abstract Algebra
 
 **Passcode:** 112358
 
-**Syllabus:** <a target="_parent" href="extras/syllabus.md">Course syllabus (link)</a>
+**Syllabus:** <a target="_parent" href="extras/syllabus.html">Course syllabus (link)</a>
 
 **First steps**
 
