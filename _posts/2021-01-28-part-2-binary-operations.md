@@ -33,6 +33,15 @@ For example, if $$G = \{0,1,2,3,4\}$$ with binary operator $$a*b = a+_5b$$ then 
 | 3 | 3 | 4 | 0 | 1 | 2 |
 | 4 | 4 | 0 | 1 | 2 | 3 |
 
+As another example, consider the symmetry group of an isosceles triangle.  In terms of $$2\times 2$$ matrices, it consists of
+* three rotation matrices
+$$
+R_0        = \left(\begin{array}{cc}1&0\\0&1\end{array}\right)
+R_{2\pi/3} = \left(\begin{array}{cc}\frac{1}{2}&-\frac{\sqrt{3}}{2} \\ \frac{\sqrt{3}}{2}&\frac{1}{2}\end{array}\right)
+R_{4\pi/3} = \left(\begin{array}{cc}\frac{1}{2}& \frac{\sqrt{3}}{2} \\-\frac{\sqrt{3}}{2}&\frac{1}{2}\end{array}\right)
+$$
+* three combined rotation/reflection matrices
+
 
 ### Properties of Binary Operations
 **Definition** A binary operation $$*$$ on a group $$G$$ is called
