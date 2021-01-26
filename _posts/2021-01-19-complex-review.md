@@ -97,7 +97,7 @@ Of course, there's a reason why this definition works so well.  If we think abou
 
 $$e^x = \sum_{n=0}^\infty \frac{x^n}{n!}$$
 
-then by replacing $x$ with $i\theta$ and using the Taylor series for $\sin(x)$ and $\cos(x)$, we obtain
+then by replacing $$x$$ with $$i\theta$$ and using the Taylor series for $$\sin(x)$$ and $$\cos(x)$$, we obtain
 
 $$\begin{align*}
 e^{i\theta}
