@@ -50,6 +50,17 @@ S_{2\pi/3} = \left(\begin{array}{cc}-\frac{1}{2}&\frac{\sqrt{3}}{2} \\ \frac{\sq
 S_{4\pi/3} = \left(\begin{array}{cc}-\frac{1}{2}&-\frac{\sqrt{3}}{2} \\-\frac{\sqrt{3}}{2}&\frac{1}{2}\end{array}\right)
 $$
 
+The multiplication table for this group is
+
+|                | $$R_0$$        | $$R_{2\pi/3}$$ | $$R_{4\pi/3}$$ | $$S_0$$        | $$S_{2\pi/3}$$ | $$S_{4\pi/3}$$ |
+| $$R_0$$        |  $$R_0$$       | $$R_{2\pi/3}$$ | $$R_{4\pi/3}$$ | $$S_0$$        | $$S_{2\pi/3}$$ | $$S_{4\pi/3}$$ |
+| $$R_{2\pi/3}$$ | $$R_{2\pi/3}$$ | $$R_{4\pi/3}$$ | $$R_0$$        | $$S_{4\pi/3}$$ | $$S_0$$        | $$S_{2\pi/3}$$ |
+| $$R_{4\pi/3}$$ | $$R_{4\pi/3}$$ | $$R_0$$        | $$R_{2\pi/3}$$ | $$S_{2\pi/3}$$ | $$S_{4\pi/3}$$ | $$S_0$$        |
+| $$S_0$$        | $$S_0$$        | $$S_{2\pi/3}$$ | $$S_{4\pi/3}$$ | $$R_0$$        | $$R_{2\pi/3}$$ | $$R_{4\pi/3}$$ |
+| $$S_{2\pi/3}$$ | $$S_{2\pi/3}$$ | $$S_{4\pi/3}$$ | $$S_0$$        | $$R_{4\pi/3}$$ | $$R_0$$        | $$R_{2\pi/3}$$ |
+| $$S_{4\pi/3}$$ | $$S_{4\pi/3}$$ | $$S_0$$        | $$S_{2\pi/3}$$ | $$R_{2\pi/3}$$ | $$R_{4\pi/3}$$ | $$R_0$$        |
+
+
 ### Properties of Binary Operations
 **Definition** A binary operation $$*$$ on a group $$G$$ is called
 - **associative** if $$(a*b)*c = a*(b*c)$$ for all $$a,b,c\in G$$
