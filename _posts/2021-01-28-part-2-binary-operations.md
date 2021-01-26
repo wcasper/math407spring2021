@@ -33,6 +33,8 @@ For example, if $$G = \{0,1,2,3,4\}$$ with binary operator $$a*b = a+_5b$$ then 
 | 3 | 3 | 4 | 0 | 1 | 2 |
 | 4 | 4 | 0 | 1 | 2 | 3 |
 
+The entry in the $$i$$'th row and $$j$$'th column represents the product $$a*b$$ of the left-most entry $$a$$ in the $$i$$'th row with the upper-most entry $$b$$ in the $$j$$'th column.  Note that this multiplication order is important when the group is **non-abelian**, meaning that the binary operation $$*$$ is not commutative.
+
 As another example, consider the symmetry group of an isosceles triangle.  In terms of $$2\times 2$$ matrices, it consists of
 * three rotation matrices
 
@@ -60,6 +62,7 @@ The multiplication table for this group is
 | $$S_{2\pi/3}$$ | $$S_{2\pi/3}$$ | $$S_{4\pi/3}$$ | $$S_0$$        | $$R_{4\pi/3}$$ | $$R_0$$        | $$R_{2\pi/3}$$ |
 | $$S_{4\pi/3}$$ | $$S_{4\pi/3}$$ | $$S_0$$        | $$S_{2\pi/3}$$ | $$R_{2\pi/3}$$ | $$R_{4\pi/3}$$ | $$R_0$$        |
 
+The fact that this group is not abelian is reflected in the structure of the multiplication table above.  In particular it is not symmetric.
 
 ### Properties of Binary Operations
 **Definition** A binary operation $$*$$ on a group $$G$$ is called
