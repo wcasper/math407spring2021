@@ -41,6 +41,6 @@ For example, if $$G = \{0,1,2,3,4\}$$ with binary operator $$a*b = a+_5b$$ then 
 
 For example, $$a*b=a+b$$ and $$a*'b = a-b$$ are two different binary operation on $$\mathbb R$$.  The operation $$*$$ is both associative and commutative, but $$*'$$ is neither associative nor commutative.  In particular
 
-$$(1*1)*1 = (1-1)*1 = 0*1 = 0-1 = 1\quad\text{and}\quad 1*(1*1) = 1*(1-1) = 1*0 = 1-0 = 1.$$
+$$(1*'1)*'1 = (1-1)*'1 = 0*'1 = 0-1 = -1\quad\text{and}\quad 1*'(1*'1) = 1*'(1-1) = 1*'0 = 1-0 = 1.$$
 
-
+which shows that $$(1*'1)*'1 \neq 1*'(1*'1)$$.
