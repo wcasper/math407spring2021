@@ -22,7 +22,7 @@ Notes and highlights from lecture
 * <a target=_parent" href="https://wcasper.github.io/math407spring2021/topics/relations.html">Relations (link)</a>
 
 ## Additional resources
-**Lecture notes:** <a target="_parent" href="https://wcasper.github.io/math407spring2021/extras/notes/2021-01-25-Note-10-28.pdf">notes for lecture (link)</a>
+**Lecture notes:** <a target="_parent" href="https://wcasper.github.io/math407spring2021/extras/notes/407-lecture1.pdf">notes for lecture (link)</a>
 
 **Lecture video:** <a target="_parent" href="https://fullerton.zoom.us/rec/share/iKQrb9vpUq-e4YLh0L0Yk7nweZbmBjglNqpjP1OVV7HBcC2u5PztToyr7oq5-Rn_.FBjalF6jZG6wsY_N">recording of lecture (link)</a> Passcode: C0Zq3E!K
 
