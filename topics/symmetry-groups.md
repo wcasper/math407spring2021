@@ -30,65 +30,27 @@ $$
 
 
 ### Symmetries of the square
-To begin, let's think about the filled-in square $$\mathcal S = [-1,1]\times[-1,1]$$ centered at the origin.  A **(linear) symmetry** of $$\mathcal S$$ is a linear transformation $$T: \mathbb R^2\rightarrow\mathbb R^2$$ which maps $$\mathcal S$$ to itself.  For example, rotations are linear transformations and rotation by $$90$$ degrees preserves the square, so a $$90$$-degree clockwise rotation is a symmetry of $$\mathcal S$$.  This transformation can be represented as a function
+As a second example, consider the solid square $$\mathcal S$$ with vertices $$(1,1)$$, $$(1,-1)$$, $$(-1,1)$$ and $(-1,-1)$$.  There are precisely eight linear symmetries for the square, namely
 
-$$T(x,y) = (y,-x)$$
-
-or in terms of a $$2\times 2$$ matrix
-
-$$\left(\begin{array}{cc}
-0& 1\\
--1 & 0
-\end{array}\right).$$
-
-The set $$G$$ of all symmetries of $$\mathcal S$$ consists (in matrix notation) of
-- identity
+* four rotation matrices
 
 $$
-\left(\begin{array}{cc}
-1 & 0\\
-0 & 1
-\end{array}\right)
+R_0        = \left(\begin{array}{cc}1&0\\0&1\end{array}\right),\quad 
+R_{\pi/2}  = \left(\begin{array}{cc}0&-1\\1&0\end{array}\right),\quad 
+R_{\pi}    = \left(\begin{array}{cc}-1&0\\0&-1\end{array}\right),\quad 
+R_{3\pi/2} = \left(\begin{array}{cc}0&1\\-1&0\end{array}\right),\quad 
 $$
 
-- rotations
+* four reflection matrices
 
 $$
-\left(\begin{array}{cc}
-0& 1\\
--1 & 0
-\end{array}\right),\quad
-\left(\begin{array}{cc}
--1& 0\\
- 0&-1
-\end{array}\right),\quad
-\left(\begin{array}{cc}
-0&-1\\
-1 & 0
-\end{array}\right)
+S_0        = \left(\begin{array}{cc}-1&0\\0&1\end{array}\right),\quad 
+S_{\pi/2}  = \left(\begin{array}{cc}0&1\\1&0\end{array}\right),\quad 
+S_{\pi}    = \left(\begin{array}{cc}1&0\\0&-1\end{array}\right),\quad 
+S_{3\pi/2} = \left(\begin{array}{cc}0&-1\\-1&0\end{array}\right),\quad 
 $$
 
-- reflections
-
-$$
-\left(\begin{array}{cc}
-1 & 0\\
-0 &-1
-\end{array}\right),\quad
-\left(\begin{array}{cc}
--1& 0\\
- 0& 1
-\end{array}\right),\quad
-\left(\begin{array}{cc}
-0 & 1\\
-1 & 0
-\end{array}\right),\quad
-\left(\begin{array}{cc}
- 0 & -1\\
--1 & 0
-\end{array}\right).
-$$
-
+![Symmetries of the triangle](img/trisymmetries.png)
 
 ## The group of symmetries
 In  each of the cases above, the set of all symmetries forms a group!  In particular
