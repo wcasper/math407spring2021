@@ -13,13 +13,13 @@ Notes and highlights from lecture
 
 ## Reading assignments
 
-* Read the <a target=_parent" href="https://wcasper.github.io/math407spring2021/extras/syllabus">syllabus (link)</a>
+* Read the <a target="_parent" href="https://wcasper.github.io/math407spring2021/extras/syllabus">syllabus (link)</a>
 * Familiarize yourself with the Canvas webpage
 * Main text Chapter 0
 
 ## Today's topics
-* <a target=_parent" href="https://wcasper.github.io/math407spring2021/topics/sets.html">Sets (link)</a>
-* <a target=_parent" href="https://wcasper.github.io/math407spring2021/topics/relations.html">Relations (link)</a>
+* <a target="_parent" href="https://wcasper.github.io/math407spring2021/topics/sets.html">Sets (link)</a>
+* <a target="_parent" href="https://wcasper.github.io/math407spring2021/topics/relations.html">Relations (link)</a>
 
 ## Additional resources
 **Lecture notes:** <a target="_parent" href="https://wcasper.github.io/math407spring2021/extras/notes/407-lecture1.pdf">notes for lecture (link)</a>
