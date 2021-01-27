@@ -1,10 +1,9 @@
 ---
-layout: post
+layout: page
+title: Complex number review
 ---
 
-## Review of Complex Numbers
-
-### Basic Definition
+### Basic definitions
 
 A **complex number** is a number of the form
 
