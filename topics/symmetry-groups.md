@@ -5,6 +5,16 @@ title: Symmetry groups
 
 
 ### Symmetries in geometry
+One of the historic origins of groups comes from the study of the symmetries of a subset of $$\mathbb R^n$$.  For simplicity, we will focus on studying symmetries in the $$x,y$$-plane.
+
+To start, consider a regular convex polygon $$\mathcal P$$ in the real plane $$\mathbb R^2$$, centered at the origin.  A **(linear) symmetry** of $$\mathcal P$$ is a linear transformation from $$\mathbb R^2$$ to itself which maps $$\mathcal P$$ to itself.
+
+For example, consider the solid triangle $$\mathcal T$$ with vertices $$(0,1)$$, $$(-\sqrt{3}/2,-1/2)$$, and $$(\sqrt{3}/2,1/2)$$.
+
+
+### Symmetries of an isoceles triangle
+
+### Symmetries of the square
 To begin, let's think about the filled-in square $$\mathcal S = [-1,1]\times[-1,1]$$ centered at the origin.  A **(linear) symmetry** of $$\mathcal S$$ is a linear transformation $$T: \mathbb R^2\rightarrow\mathbb R^2$$ which maps $$\mathcal S$$ to itself.  For example, rotations are linear transformations and rotation by $$90$$ degrees preserves the square, so a $$90$$-degree clockwise rotation is a symmetry of $$\mathcal S$$.  This transformation can be represented as a function
 
 $$T(x,y) = (y,-x)$$
