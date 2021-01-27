@@ -50,7 +50,7 @@ S_{\pi}    = \left(\begin{array}{cc}1&0\\0&-1\end{array}\right),\quad
 S_{3\pi/2} = \left(\begin{array}{cc}0&-1\\-1&0\end{array}\right),\quad 
 $$
 
-![Symmetries of the triangle](img/trisymmetries.png)
+![Symmetries of the triangle](img/sqrsymmetries.png)
 
 ## The group of symmetries
 In  each of the cases above, the set of all symmetries forms a group!  In particular
