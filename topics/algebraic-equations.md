@@ -5,9 +5,7 @@ title: Algebraic equations
 
 An **algebraic equation** is an equation of the form
 
-$$\begin{array*}
-p(x_1,\dots, x_n) &= 0
-\end{array}$$
+$$p(x_1,\dots, x_n) &= 0$$
 
 for some multivariate polynomial $$p$$ in unknown variables $$x_1,\dots, x_n$$.  The set of solutions to this equation is denoted by $$Z(p)$$ (we use "Z" for zeros).  In order to learn more about what solutions of algebraic equations look like and how such equations may be solved, mathematicians study various properties of the system of equations such as automorphisms.
 
