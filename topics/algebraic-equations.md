@@ -39,7 +39,7 @@ $$\Aut(p) = \{\rho_k(z) : \text{$k$ and $p$ are relatively prime}\}.$$
 
 
 ### Edwards curve
-An Edwards curve in $$\mathbb R^2$ is the curve consisting of the points $$(x,y)$$ in $$\mathbb R^2$$ satsifying the equation
+An Edwards curve in $$\mathbb R^2$$ is the curve consisting of the points $$(x,y)$$ in $$\mathbb R^2$$ satsifying the equation
 
 $$x_1^2 + x_2^2 = 1 - ax_1^2x_2^2$$
 
