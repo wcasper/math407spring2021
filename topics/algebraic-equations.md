@@ -35,7 +35,7 @@ $$\rho_k(z)^n = (z^k)^n = z^{nk} = 1^k = 1.$$
 therefore $$\rho_k$$ maps $$Z(p)$$ to itself.  The fact that this map is bijective comes from the restriction that $$k$$ and $$n$$ are relatively prime.
 In fact, this characterizes the automorphisms of $$Z(p)$$:
 
-$$\Aut(p) = \{\rho_k(z) : \text{$k$ and $p$ are relatively prime}\}.$$
+$$\text{Aut}(p) = \{\rho_k(z) : \text{$k$ and $p$ are relatively prime}\}.$$
 
 
 ### Edwards curve
