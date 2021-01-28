@@ -37,6 +37,7 @@ In fact, this characterizes the automorphisms of $$Z(p)$$:
 
 $$\text{Aut}(p) = \{\rho_k(z) : \text{$k$ and $p$ are relatively prime}\}.$$
 
+Note that by restricting these maps to $$Z(p)$$, we obtain the Galois group of the field extension corresponding to $$p(z)$$.
 
 ### Edwards curve
 An Edwards curve in $$\mathbb R^2$$ is the curve consisting of the points $$(x,y)$$ in $$\mathbb R^2$$ satsifying the equation
