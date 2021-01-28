@@ -28,7 +28,7 @@ An **$$n$$'th root of unity** is a solution $$z$$ of the algebraic equation
 
 $$z^n = 1.$$
 
-Thus the roots of unity are precisely the elements of $$Z(p)$$ for $p(z) = z^n-1$$.  For any integer $$k$$ relatively prime to $$n$$, the rational function $$\rho_k(z) = z^k$$ defines an automorphism of $$Z(p)$$.  To see this, simply note that if $$z^n=1$$, then
+Thus the roots of unity are precisely the elements of $$Z(p)$$ for $$p(z) = z^n-1$$.  For any integer $$k$$ relatively prime to $$n$$, the rational function $$\rho_k(z) = z^k$$ defines an automorphism of $$Z(p)$$.  To see this, simply note that if $$z^n=1$$, then
 
 $$\rho_k(z)^n = (z^k)^n = z^{nk} = 1^k = 1.$$
 
