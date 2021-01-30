@@ -24,8 +24,7 @@ Notes and highlights from lecture
 * <a target="_parent" href="https://wcasper.github.io/math407spring2021/topics/modular-arithmetic.html">Groups from number theory (link)</a>
 
 ## Additional resources
-[//]: # **Lecture notes:** <a target="_parent" href="https://wcasper.github.io/math407spring2021/extras/notes/407-lecture2.pdf">notes for lecture (link)</a>
+**Lecture notes:** <a target="_parent" href="https://wcasper.github.io/math407spring2021/extras/notes/407-lecture2.pdf">notes for lecture (link)</a>
 
-[//]: # **Lecture video:** <a target="_parent" href="https://fullerton.zoom.us/rec/share/iKQrb9vpUq-e4YLh0L0Yk7nweZbmBjglNqpjP1OVV7HBcC2u5PztToyr7oq5-Rn_.FBjalF6jZG6wsY_N">recording of lecture (link)</a> Passcode: C0Zq3E!K
-
+**Lecture video:** <a target="_parent" href="https://fullerton.zoom.us/rec/share/FMTIRPLOIePHtejL0On9WlvxbbORSrtpdddlGBq6H0GtEOI4tz2jGkNscplU1xtC.UgKfN03nJtGt2M-V ">recording of lecture (link)</a> Passcode: ?n5R..%6
 
