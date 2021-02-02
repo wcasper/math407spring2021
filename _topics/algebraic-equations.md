@@ -44,7 +44,9 @@ An Edwards curve in $$\mathbb R^2$$ is the curve consisting of the points $$(x,y
 
 $$x_1^2 + x_2^2 = 1 - ax_1^2x_2^2$$
 
-for some $$a\geq 0$$.  Thus the Edwards curve is $$Z(p)$$, for $$p(x_1,x_2) = x_1^2+x_2^2+ax_1^2x_2^2-1$$.  Note that in the special case $$a=0$$ this is simply a circle and for general $$a$$, this looks like a mildly deformed circle.
+for some $$a\geq 0$$.  Thus the Edwards curve is $$Z(p)$$, for $$p(x_1,x_2) = x_1^2+x_2^2+ax_1^2x_2^2-1$$.  Note that in the special case $$a=0$$ this is simply a circle and for general $$a$$, this looks like a circle being squeezed at four different points.
+
+![Edwards curve with a=30](img/edwards-curve.png)
 
 The Edwards curve is extremely interesting in the sense that every point on the curve actually defines an automorphism of the curve!  Specifically, if $$(y_1,y_2)$$ is a point on the curve then 
 
