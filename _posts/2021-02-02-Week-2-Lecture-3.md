@@ -16,10 +16,10 @@ Notes and highlights from lecture
 * Start main text Chapter 2
 
 ## Today's topics
-* <a target="_parent" href="https://wcasper.github.io/math407spring2021/topics/algebraic-equations.html">Groups from algebraic equations (link)</a>
-* <a target="_parent" href="https://wcasper.github.io/math407spring2021/topics/modular-arithmetic.html">Groups from number theory (link)</a>
-* <a target="_parent" href="https://wcasper.github.io/math407spring2021/topics/binary-operations.html">Binary operations (link)</a>
-* <a target="_parent" href="https://wcasper.github.io/math407spring2021/topics/multiplication-table.html">Multiplication table (link)</a>
+* <a target="_parent" href="https://wcasper.github.io/math407spring2021/_topics/algebraic-equations.html">Groups from algebraic equations (link)</a>
+* <a target="_parent" href="https://wcasper.github.io/math407spring2021/_topics/modular-arithmetic.html">Groups from number theory (link)</a>
+* <a target="_parent" href="https://wcasper.github.io/math407spring2021/_topics/binary-operations.html">Binary operations (link)</a>
+* <a target="_parent" href="https://wcasper.github.io/math407spring2021/_topics/multiplication-table.html">Multiplication table (link)</a>
 
 ## Additional resources
 [//]: # **Lecture notes:** <a target="_parent" href="https://wcasper.github.io/math407spring2021/extras/notes/407-lecture3.pdf">notes for lecture (link)</a>
