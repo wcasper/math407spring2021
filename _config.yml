@@ -16,8 +16,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    #twitter: jekyllrb
+    github:  wcasper
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
@@ -59,3 +59,10 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+
+# create a collection of topics
+collections:
+  topics:
+    output: true
+
+
