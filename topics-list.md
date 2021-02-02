@@ -1,7 +1,7 @@
 ---
 layout: page
 title: List of Course Topics
-permalink: /topics/
+permalink: /topics-list/
 ---
 
 {% for topic in site.topics %}

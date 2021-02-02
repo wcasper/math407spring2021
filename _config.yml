@@ -52,7 +52,7 @@ minima:
 header_pages:
  - about.md
  - extras/syllabus.md
- - topics.md
+ - topics-list.md
 
 # Build settings
 theme: minima
