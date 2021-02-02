@@ -5,10 +5,10 @@ permalink: /topics-list/
 ---
 
 {% for topic in site.topics %}
-  <h3>
+  <p>
     <a target="_parent" href="{{ topic.url }}">
       {{ topic.title }}
     </a>
-  </h3>
+  </p>
 {% endfor %}
 
