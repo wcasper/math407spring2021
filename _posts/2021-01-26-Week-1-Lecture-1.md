@@ -18,8 +18,8 @@ Notes and highlights from lecture
 * Main text Chapter 0
 
 ## Today's topics
-* <a target="_parent" href="https://wcasper.github.io/math407spring2021/_topics/sets.html">Sets (link)</a>
-* <a target="_parent" href="https://wcasper.github.io/math407spring2021/_topics/relations.html">Relations (link)</a>
+* <a target="_parent" href="https://wcasper.github.io/math407spring2021/topics/sets.html">Sets (link)</a>
+* <a target="_parent" href="https://wcasper.github.io/math407spring2021/topics/relations.html">Relations (link)</a>
 
 ## Additional resources
 **Lecture notes:** <a target="_parent" href="https://wcasper.github.io/math407spring2021/extras/notes/407-lecture1.pdf">notes for lecture (link)</a>
