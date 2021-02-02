@@ -1,6 +1,6 @@
 ---
 layout: page
-title: binary operations
+title: Binary operations
 ---
 
 ### Basic Definition and Examples
