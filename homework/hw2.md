@@ -38,7 +38,7 @@ $$G = \{0,1,2,3,4,5\}\quad \text{with the binary operation $+_6$}$$
 
 and the set
 
-$$H = \{z\in\bbc : z^6 = 1\}\quad \text{with the binary operation $z*w = zw$}.$$
+$$H = \{z\in\mathbb C : z^6 = 1\}\quad \text{with the binary operation $z*w = zw$}.$$
 
 
 **Problem 5:** In this problem, we will explore the linear symmetries of the square in the $$x,y$$-plane with vertices $$(1,1),(1,-1),(-1,-1),(-1,1).$$.
