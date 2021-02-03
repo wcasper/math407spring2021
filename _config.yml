@@ -62,7 +62,7 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
 
-# create a collection of topics
+# create a collection of topics and homework
 collections:
   topics:
     output: true
