@@ -25,7 +25,7 @@ In other words, it's a bijection which is compatible with the binary relations.
 
 The unit circle in the complex plane $$\mathbb T$$ consists of all complex numbers $$z\in\mathbb C$$ whose norm is $$1$$
 
-$$\mathbb T = \{z\in\bbc : |z| = 1\}.$$
+$$\mathbb T = \{z\in\mathbb C : |z| = 1\}.$$
 
 The circle has a well-define binary relation given by the usual multiplication of complex numbers.
 
@@ -41,15 +41,21 @@ $$f: \mathbb R_{2\pi}\rightarrow \mathbb T,\quad\text{defined by}\ f(x) = e^{i x
 
 We claim that this is an isomorphism!  To check this, we need to show that it is a bijection and that it respects the binary operators.
 
-* **Injectivity:**  If $$f(x) = f(y)$$, then $$e^{i x} = e^{iy}$$ and therefore $$e^{i (x-y)} = 1$$ meaning that 
+* **Injectivity:**
+
+If $$f(x) = f(y)$$, then $$e^{i x} = e^{iy}$$ and therefore $$e^{i (x-y)} = 1$$ meaning that 
 
 $$\cos(x-y) + i\sin(x-y) = 1.$$
 
 Thus $$\sin(x-y)=0$$ meaning that $$x-y=k\pi$$ for some integer $$k$$ and since $$\cos(x-y) = 1$$ we see $$k$$ is even, ie. $$k=2j$$ for some $$j$$.  Since $$0\leq x,y < 2\pi$$, this means $$x-y=0$$ so that $$x=y$$.  This proves injectivity.
 
-* **surjectivity:** If $$z\in \mathbb T$$, then Euler's formula says $$z = e^{i\theta}$$ for some $$0\leq\theta < 2\pi$$ because $$|z|=1$$. Thus $$z = f(\theta)$$.  This proves surjectivity.
+* **surjectivity:**
 
-* **respects the binary operator:** Since $$x+_{2\pi}y = x+y+2\pi j$$ for some integer $$j$$, we see
+If $$z\in \mathbb T$$, then Euler's formula says $$z = e^{i\theta}$$ for some $$0\leq\theta < 2\pi$$ because $$|z|=1$$. Thus $$z = f(\theta)$$.  This proves surjectivity.
+
+* **respects the binary operator:**
+
+Since $$x+_{2\pi}y = x+y+2\pi j$$ for some integer $$j$$, we see
 
 $$f(x+_{2\pi} y) = e^{i(x+_{2\pi}y)} = e^{i(x+y+2\pi j)} = e^{ix + iy + 2\pi i j} = e^{ix}e^{iy}\left(e^{2\pi i}\right)^j = e^{ix}e^{iy} 1^j = f(x)f(y).$$
 
