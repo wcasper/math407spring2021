@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Homework
-permalink: /topics-list/
+permalink: /homework-list/
 ---
 
 {% for hw in site.homework %}
