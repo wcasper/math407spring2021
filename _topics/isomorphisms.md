@@ -7,7 +7,7 @@ title: Isomorphisms
 
 Suppose that $$(G,*)$$ and $$(G,\star)$$ are two sets with binary relations.  Sometimes, these sets will be basically the same in a certain sense.  For example, there is obviously very little difference between
 
-$$G = \{0,1,2,3,\dots,11\}\quad \text{with the binary relation $+_{12}$}}$$
+$$G = \{0,1,2,3,\dots,11\}\quad \text{with the binary relation $+_{12}$}$$
 
 and the set
 
