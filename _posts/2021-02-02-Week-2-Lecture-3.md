@@ -21,8 +21,10 @@ Notes and highlights from lecture
 * <a target="_parent" href="https://wcasper.github.io/math407spring2021/topics/binary-operations.html">Binary operations (link)</a>
 
 ## Additional resources
-[//]: # **Lecture notes:** <a target="_parent" href="https://wcasper.github.io/math407spring2021/extras/notes/407-lecture3.pdf">notes for lecture (link)</a>
 
-[//]: # **Lecture video:** <a target="_parent" href="https://fullerton.zoom.us/rec/share/iKQrb9vpUq-e4YLh0L0Yk7nweZbmBjglNqpjP1OVV7HBcC2u5PztToyr7oq5-Rn_.FBjalF6jZG6wsY_N">recording of lecture (link)</a> Passcode: C0Zq3E!K
+**Lecture notes:** <a target="_parent" href="https://wcasper.github.io/math407spring2021/extras/notes/407-lecture3.pdf">notes for lecture (link)</a>
 
+**Lecture video:** <a target="_parent" href="https://fullerton.zoom.us/rec/share/XcuHKcC_3Rns-CJilfRVdyzQZbAb6xLiibAQEeJDn9bwH6LTY3Ft8KpVdddtMepi.wO2p4D8WOjtYjBhe">recording of lecture (link)</a>
+
+The passcode can be found on the <a target="_parent" href="https://csufullerton.instructure.com/courses/3087997/pages/video-lecture-keys">passcode page (link)</a>
 
