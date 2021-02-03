@@ -24,9 +24,9 @@ If you wish to use the second method and don't own a scanner at home, you can ch
 * **(c)** $$(1 - 3i)^{2021}$$
 
 **Problem 3:** For each of the following binary operations, determine whether the operation is associative and whether it is commutative
-* **(a)** $$*$$ defined on $$\mathbb Q$$ by $$a*b = ab + 1$$
-* **(b)** $$*$$ defined on $$\mathbb R$$ by $$a*b = 3^{ab}$$
-* **(c)** $$*$$ defined on $$\mathbb Z$$ by $$a*b = a + b + 2$$
+* **(a)** binary operation $$*$$ defined on $$\mathbb Q$$ by $$a*b = ab + 1$$
+* **(b)** binary operation $$*$$ defined on $$\mathbb R$$ by $$a*b = 3^{ab}$$
+* **(c)** binary operation $$*$$ defined on $$\mathbb Z$$ by $$a*b = a + b + 2$$
 
 **Problem 4:** Recall that an **isomorphism** between sets $$(G,*)$$ and $$(H,\star)$$ with binary relations is a bijection $$f: G\rightarrow G'$$ satisying the property that
 
