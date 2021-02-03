@@ -32,7 +32,7 @@ If you wish to use the second method and don't own a scanner at home, you can ch
 
 $$f(a*b) = f(a)\star f(b),\quad\text{for all $a,b\in G$}.$$
 
-* **(a)** Show that there is an isomorphism between
+Show that there is an isomorphism between
 
 $$G = \{0,1,2,3,4,5\}\quad \text{with the binary operation $+_6$}$$
 
