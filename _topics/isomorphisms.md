@@ -59,9 +59,9 @@ $$\begin{align*}
 (0, 1) &\mapsto R_0\\
 (1, 1) &\mapsto R_{2\pi/3}\\
 (2, 1) &\mapsto R_{4\pi/3}\\
-(0,-1) &\maspto S_0\\
-(1,-1) &\maspto S_{2\pi/3}\\
-(2,-1) &\maspto S_{4\pi/3}
+(0,-1) &\mapsto S_0\\
+(1,-1) &\mapsto S_{2\pi/3}\\
+(2,-1) &\mapsto S_{4\pi/3}
 \end{align*}$$
 
 This defines a bijection from $$D_n$$ to $$T$$.  For this to be an isomorphism, we need to make sure it respects the products. We can check this by looking at the image of the multipliication table under this map
