@@ -53,6 +53,7 @@ header_pages:
  - about.md
  - extras/syllabus.md
  - topics-list.md
+ - homework-list.md
 
 # Build settings
 theme: minima
@@ -64,6 +65,8 @@ plugins:
 # create a collection of topics
 collections:
   topics:
+    output: true
+  homework:
     output: true
 
 
