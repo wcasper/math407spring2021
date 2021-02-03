@@ -28,7 +28,7 @@ If you wish to use the second method and don't own a scanner at home, you can ch
 * **(b)** binary operation $$*$$ defined on $$\mathbb R$$ by $$a*b = 3^{ab}$$
 * **(c)** binary operation $$*$$ defined on $$\mathbb Z$$ by $$a*b = a + b + 2$$
 
-**Problem 4:** Recall that an **isomorphism** between sets $$(G,*)$$ and $$(H,\star)$$ with binary relations is a bijection $$f: G\rightarrow G'$$ satisying the property that
+**Problem 4:** Recall that an **isomorphism** between sets $$(G,*)$$ and $$(H,\star)$$ with binary relations is a bijection $$f: G\rightarrow H$$ satisying the property that
 
 $$f(a*b) = f(a)\star f(b),\quad\text{for all $a,b\in G$}.$$
 
