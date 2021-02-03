@@ -11,7 +11,7 @@ $$G = \{0,1,2,3,\dots,11\}\quad \text{with the binary relation $+_{12}$}\}$$
 
 and the set
 
-$$H = \{x| \text{$x$ is an hour on a clock}\}\quad \text{with the binary relation of adding hours}$$
+$$H = \{x : \text{$x$ is an hour on a clock}\}\quad \text{with the binary relation of adding hours}$$
 
 Mathematically, the way we express this kind of equivalence is through isomorphisms.
 
@@ -41,7 +41,7 @@ $$f: \mathbb R_{2\pi}\rightarrow \mathbb T,\quad\text{defined by}\ f(x) = e^{i x
 
 We claim that this is an isomorphism!  To check this, we need to show that it is a bijection and that it respects the binary operators.
 
-* **Injectivity:**
+* **injectivity:**
 
 If $$f(x) = f(y)$$, then $$e^{i x} = e^{iy}$$ and therefore $$e^{i (x-y)} = 1$$ meaning that 
 
