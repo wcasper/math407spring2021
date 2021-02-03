@@ -23,4 +23,55 @@ In other words, it's a bijection which is compatible with the binary relations.
 
 ### Modular addition and roots of unity
 
-### Dihedral groups
+### The dihedral group
+
+Let $$n>2$$ be an integer and consider the set
+
+$$D_n = \{0,1,2,\dots,n-1\}\times \{-1,1\}$$
+
+We define a binary relation on $$D_n$$ by setting
+
+$$(a,b)*(c,d) = (a +_n b*c, bd)$$
+
+This binary relation makes $$D_n$$ into a group called the **dihedral group**.
+
+**Example:** Let's look at the multiplication table for this binary relation for $$D_3$$
+
+|    *   | (0, 1) | (1, 1) | (2, 1) | (0,-1) | (1,-1) | (2,-1) |
+| (0, 1) | (0, 1) | (1, 1) | (2, 1) | (0,-1) | (1,-1) | (2,-1) |
+| (1, 1) | (1, 1) | (2, 1) | (0, 1) | (1,-1) | (2,-1) | (0,-1) |
+| (2, 1) | (2, 1) | (0, 1) | (1, 1) | (2,-1) | (0,-1) | (1,-1) |
+| (0,-1) | (0,-1) | (2,-1) | (1,-1) | (0, 1) | (2, 1) | (1, 1) |
+| (1,-1) | (1,-1) | (0,-1) | (2,-1) | (1, 1) | (0, 1) | (2, 1) |
+| (2,-1) | (2,-1) | (1,-1) | (0,-1) | (2, 1) | (1, 1) | (0, 1) |
+
+**Theorem:** The **dihedral group** $$D_n$$ is isomorphic to the group of symmetries of a regular $$n$$-sided polygon.
+
+**Proof for the triangle:**
+
+The set of symmetries $$\text{symm}(T)$$ of the triangle $$T$$ consists of
+* clockwise rotation by $$0$$, $$120$$, and $$240$$ degrees: $$R_0$$, $$R_{2\pi/3}$$ and $$R_{4\pi/3}$$
+* reflection across $$x=0$$, $$y=-\sqrt{3}x$, and $$y=\sqrt{3}x$$: $$S_0$$, $$S_{2\pi/3}$$, $$S_{4\pi/3}$$
+
+Define a function $$f: D_n\rightarrow T$$ by
+
+$$\begin{align*}
+(0, 1) &\mapsto R_0\\
+(1, 1) &\mapsto R_{2\pi/3}\\
+(2, 1) &\mapsto R_{4\pi/3}\\
+(0,-1) &\maspto S_0\\
+(1,-1) &\maspto S_{2\pi/3}\\
+(2,-1) &\maspto S_{4\pi/3}
+\end{align*}$$
+
+This defines a bijection from $$D_n$$ to $$T$$.  For this to be an isomorphism, we need to make sure it respects the products. We can check this by looking at the image of the multipliication table under this map
+
+|                | $$R_0$$        | $$R_{2\pi/3}$$ | $$R_{4\pi/3}$$ | $$S_0$$        | $$S_{2\pi/3}$$ | $$S_{4\pi/3}$$ |
+| $$R_0$$        |  $$R_0$$       | $$R_{2\pi/3}$$ | $$R_{4\pi/3}$$ | $$S_0$$        | $$S_{2\pi/3}$$ | $$S_{4\pi/3}$$ |
+| $$R_{2\pi/3}$$ | $$R_{2\pi/3}$$ | $$R_{4\pi/3}$$ | $$R_0$$        | $$S_{4\pi/3}$$ | $$S_0$$        | $$S_{2\pi/3}$$ |
+| $$R_{4\pi/3}$$ | $$R_{4\pi/3}$$ | $$R_0$$        | $$R_{2\pi/3}$$ | $$S_{2\pi/3}$$ | $$S_{4\pi/3}$$ | $$S_0$$        |
+| $$S_0$$        | $$S_0$$        | $$S_{2\pi/3}$$ | $$S_{4\pi/3}$$ | $$R_0$$        | $$R_{2\pi/3}$$ | $$R_{4\pi/3}$$ |
+| $$S_{2\pi/3}$$ | $$S_{2\pi/3}$$ | $$S_{4\pi/3}$$ | $$S_0$$        | $$R_{4\pi/3}$$ | $$R_0$$        | $$R_{2\pi/3}$$ |
+| $$S_{4\pi/3}$$ | $$S_{4\pi/3}$$ | $$S_0$$        | $$S_{2\pi/3}$$ | $$R_{2\pi/3}$$ | $$R_{4\pi/3}$$ | $$R_0$$        |
+
+This is identical to the multiplication table for the symmetry group of the triangle, so the previous map is an isomorphism!
