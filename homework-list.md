@@ -1,6 +1,6 @@
 ---
 layout: page
-title: List of Course Homework
+title:  Homework
 permalink: /topics-list/
 ---
 
