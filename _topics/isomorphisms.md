@@ -25,7 +25,7 @@ In other words, it's a bijection which is compatible with the binary relations.
 
 The unit circle in the complex plane $$\mathbb T$$ consists of all complex numbers $$z\in\mathbb C$$ whose norm is $$1$$
 
-$$\mathbb T = \{z\in\mathbb C : |z| = 1\}.$$
+$$\mathbb T = \{z\in\mathbb C : \vert z\vert = 1\}.$$
 
 The circle has a well-define binary relation given by the usual multiplication of complex numbers.
 
