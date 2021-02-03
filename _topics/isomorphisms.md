@@ -51,7 +51,7 @@ Thus $$\sin(x-y)=0$$ meaning that $$x-y=k\pi$$ for some integer $$k$$ and since 
 
 * **surjectivity:**
 
-If $$z\in \mathbb T$$, then Euler's formula says $$z = e^{i\theta}$$ for some $$0\leq\theta < 2\pi$$ because $$|z|=1$$. Thus $$z = f(\theta)$$.  This proves surjectivity.
+If $$z\in \mathbb T$$, then Euler's formula says $$z = e^{i\theta}$$ for some $$0\leq\theta < 2\pi$$ because $$\vert z\vert =1$$. Thus $$z = f(\theta)$$.  This proves surjectivity.
 
 * **respects the binary operator:**
 
