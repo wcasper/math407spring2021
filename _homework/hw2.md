@@ -18,7 +18,7 @@ If you wish to use the second method and don't own a scanner at home, you can ch
 * **(b)** $$(2 + i)^3$$
 * **(c)** $$(3 + i)/(2 + 2i)$$
 
-**Problem 2:** Rewrite each of the following complex numbers in the form $$re^{i\theta}$$ for some real numbers $$r$$ and $$\theta$$ with $0$\leq\theta < 2\pi$$.
+**Problem 2:** Rewrite each of the following complex numbers in the form $$re^{i\theta}$$ for some real numbers $$r$$ and $$\theta$$ with $$0\leq\theta < 2\pi$$.
 * **(a)** $$3 + 2i$$
 * **(b)** $$1/(3 + 2i)$$
 * **(c)** $$(1 - 3i)^{2021}$$
