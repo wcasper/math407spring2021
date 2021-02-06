@@ -22,8 +22,11 @@ Notes and highlights from lecture
 * <a target="_parent" href="https://wcasper.github.io/math407spring2021/topics/isomorphisms.html">Isomorphisms (link)</a>
 
 ## Additional resources
-[//]: # **Lecture notes:** <a target="_parent" href="https://wcasper.github.io/math407spring2021/extras/notes/407-lecture3.pdf">notes for lecture (link)</a>
 
-[//]: # **Lecture video:** <a target="_parent" href="https://fullerton.zoom.us/rec/share/iKQrb9vpUq-e4YLh0L0Yk7nweZbmBjglNqpjP1OVV7HBcC2u5PztToyr7oq5-Rn_.FBjalF6jZG6wsY_N">recording of lecture (link)</a> Passcode: C0Zq3E!K
+**Lecture notes:** <a target="_parent" href="https://wcasper.github.io/math407spring2021/extras/notes/407-lecture4.pdf">notes for lecture (link)</a>
+
+**Lecture video:** <a target="_parent" href="https://fullerton.zoom.us/rec/share/-7coPbsMQoX_XVhMevZU6w6cOVW15PDzJeShGts5rSkYJBqWorTOUmt8OEfQRW59.vDo6NdvMRB2QxkGo">recording of lecture (link)</a>
+
+
 
 
