@@ -61,7 +61,8 @@ linear group of degree $$n$$**.
 
 **Example:** The set $$S_n$$ of permutations of $$\{1,2,\dots,n\}$$ with the
 binary operation given by composition is a group.  This group is called the
-**symmetric group**.
+**symmetric group**.  More generally, the set $$S_A$$ of permutations of a set
+$$A$$ forms a group called the symmetric group of permutations of $$A$$.
 
 **Example:** The set of integers $$\{0,1,2,\dots, n-1\}$$ with binary operation $$+_n$$ is a group.
 
@@ -71,6 +72,10 @@ We say that a group $$G$$ is **abelian** if it has the additional property
 **Example:** The set $$\mathbb Q$$ of rational numbers with binary operation $$+$$ is an abelian group.
 
 **Example:** The set $$\mathbb Q^\times$$ of nonzero rational numbers with binary operation $$\cdot$$ is an abelian group.
+
+**Example:** The set of $$n$$'th roots of unity with binary operation defined by multiplication is an abelian group.
+
+**Example:** The set $$\mathbb Z_n = \{0,1,\dots, n-1\}$$ with binary operation $$+_n$$ is an abeliang group.
 
 
 
