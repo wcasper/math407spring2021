@@ -45,6 +45,9 @@ $$e$$.  If $$b$$ and $$b'$$ are two inverses of $$a\in G$$ then $$b=b'$$.
 
 **Proof:** By definition $$b' = e*b' = b*a*b' = b*e = b$$.
 
+The inverse of $$a\in G$$ is typically denoted as $$a^{-1}$$.  In our textbook,
+it happens to be denoted by $$a'$$.
+
 We now have all the tools required to formally define a group!
 
 **Definition** A group is a set $$G$$ with a binary operation $$*$$ satisfying the following properties
