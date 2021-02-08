@@ -43,6 +43,8 @@ $$D_n = \{(a,j): a\in \mathbb Z_n\quad\text{and}\ j=\pm 1\}$$
 
 with the binary operation $$(a,j)*(b,k) = (ak+_nb,jk)$$.
 
+Draw the Cayley graph for the dihedral group $$D_6$$ with generating set $$S = \{(1,1),(0,-1)\}$$.
+
 **Problem 6:**  Let $$G = \mathbb C^\times$$ be the group  of nonzero complex numbers with binary operation given by multiplication.  Prove that if $$H$$ is a finite subgroup of $$G$$, then for some $$n$$
 
 $$H = \{z\in\bbc: z^n=1\}.$$
