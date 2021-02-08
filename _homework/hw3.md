@@ -19,7 +19,7 @@ If you wish to use the second method and don't own a scanner at home, you can ch
 * $$\mathbb Z_{12}$$
 * $$\mathbb Z_{17}$$
 
-**Problem 2:**  An **automorphism** of a group $$G$$ is an isomorphism from $$G$ to itself.  Find all automorphisms of each of the following groups
+**Problem 2:**  An **automorphism** of a group $$G$$ is an isomorphism from $$G$$ to itself.  Find all automorphisms of each of the following groups
 
 * $$\mathbb Z_8$$
 * $$\mathbb Z_{84}$$
