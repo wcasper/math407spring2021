@@ -28,7 +28,7 @@ If you wish to use the second method and don't own a scanner at home, you can ch
 
 **Problem 3:**  Let $$G$$ be a group and let $$S\subseteq G$$.  Show that
 
-$$H_S = \{x\in G: xa = ax\ \text{for all $a\in S$\}$$
+$$H_S = \{x\in G: xa = ax\ \text{for all $a\in S$}\}$$
 
 is a subgroup.  Show that in the special case $$S=G$$ that $$H_S=H_G$$ is abelian.  The subgroup $$H_G$$ is called the **center** of $$G$$.
 
