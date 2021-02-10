@@ -35,7 +35,7 @@ is a subgroup.  Show that in the special case $$S=G$$ that $$H_S=H_G$$ is abelia
 **Problem 4:**  Suppose that $$G\subseteq\mathbb R^3$$ is a group with binary operation $$*$$ satisfying the following property
 * if $$a\times b\neq 0$$, then $$a*b = a\times b$$ (where the latter denotes the cross product)
 
-Prove that $$a*b=0$$ for all $$a,b\in G$$.
+Prove that $$a\times b=0$$ for all $$a,b\in G$$.
 
 **Problem 5:**  Recall that the **dihedral group** $$D_n$$ is
 
