@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lecture 5
+title: Lecture 6
 ---
 
 Notes and highlights from lecture
