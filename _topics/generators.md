@@ -50,7 +50,7 @@ m & \text{otherwise}
 
 If $$G$$ is a group and $$S$$ is a subgroup of $$G$$, we can gain a great deal of insight by visualizing *how* $$S$$ generates $$G$$.  One way to do so is to construct a **Cayley digraph**.
 
-**Definition:** The **Cayley digraph** of a group $$G$$ with generating set $$S$$ is the graph whose vertices are the elements of $$G$, and where there is an arrow from $$a\in G$$ to $$b\in G$$ precisely when there is an element $$c\in S$$ with $$ca = b$$.
+**Definition:** The **Cayley digraph** of a group $$G$$ with generating set $$S$$ is the graph whose vertices are the elements of $$G$$, and where there is an arrow from $$a\in G$$ to $$b\in G$$ precisely when there is an element $$c\in S$$ with $$ca = b$$.
 
 We can enhance this visualization by color coding or labeling the edges, so as to see which generator is responsible for each connection.
 
