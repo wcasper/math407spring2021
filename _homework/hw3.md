@@ -37,6 +37,14 @@ is a subgroup.  Show that in the special case $$S=G$$ that $$H_S=H_G$$ is abelia
 
 Prove that $$a\times b=0$$ for all $$a,b\in G$$.
 
+You can prove this via contradiction.  Start by assuming that there are $$a,b\in G$$ with $$a\times b\neq 0$$.  Then use the following steps.
+
+1.  Show that $$G$$ must contain an orthogonal basis for $$\mathbb R^3$$.  Without loss of generality, we may take $$a$$, $$b$$, and $$c=a\times b$$ to be an orthogonal basis.
+2.  By considering the product $$a*a*b$$, show that $$a*a$$ must be parallel to $$b$$.  Similarly, show it is parallel to $$c$$ and hence $$a*a=0$$.
+3.  Use the same strategy to show that $$b*b=0$$ and $$c*c=0$$.
+4.  By considering the product $$e*a$$, show that $$e$$ must be parallel to $$a$$.  Similarly, show that $$e$$ is parallel to $$b$$ also, forcing $$e=0$$.
+5.  Show that $$b*a*b*a=e$$ and that $$a*a*b*b=e$$.  Conclude that $$a*b=b*a$$.
+6.  Use the fact that $$a\times b = -b\times a$$ to conclude that $$c = a*b= 0$$, contradicting the assumption $$a\times b\neq 0$$.
 
 **Problem 5:**  Recall that the **dihedral group** $$D_n$$ is
 
