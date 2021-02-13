@@ -61,7 +61,7 @@ Draw the Cayley graph for the dihedral group $$D_6$$ with generating set $$S = \
 
 3. Suppose that $$w\in\mathbb C$$ and $$w^m=1$$ for some $$m$$.  Show that $$\langle w\rangle = \{z\in\mathbb C: z^n = 1\}$$, where here $$n$$ is the smallest positive integer satisfying $$w^n=1$$.
 
-4. Use Part 3 and the fact that $$\{z\in\mathbb C : z^m = 1\}$$ is cyclic, and that subgroups of cyclic groups are cyclic, to prove that
+4. Use Part 3 and the fact that $$\{z\in\mathbb C : z^m = 1\}$$ is cyclic, and that subgroups of cyclic groups are cyclic, to prove that there exists an $$n>0$$ satisfying
 
 $$H = \{z\in\mathbb C: z^n = 1\}$$
 
