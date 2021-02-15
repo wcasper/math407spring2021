@@ -18,8 +18,6 @@ Notes and highlights from lecture
 ## Today's topics
 * <a target="_parent" href="https://wcasper.github.io/math407spring2021/topics/cyclic-groups.html">Cyclic Groups and Cyclic Subgroups (link)</a>
 * <a target="_parent" href="https://wcasper.github.io/math407spring2021/topics/generators.html">Generators (link)</a>
-* <a target="_parent" href="https://wcasper.github.io/math407spring2021/topics/permutation.html">Permutations (link)</a>
-* <a target="_parent" href="https://wcasper.github.io/math407spring2021/topics/group-homomorphism.html">Group Homomorphisms (link)</a>
 
 ## Additional resources
 
