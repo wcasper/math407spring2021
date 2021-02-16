@@ -59,7 +59,7 @@ Draw the Cayley graph for the dihedral group $$D_6$$ with generating set $$S = \
 1. Show that if $$z\in H$$, then $$z^k = 1$$ for some $$k$$.
 2. Let $$H = \{z_0,z_1,\dots, z_r\}$$ and for each $$j$$ choose $$m_j>0$$ with $$z_j^{m_j}=1$$ (which exist by Part 1).  Show that $$m=m_1m_2\dots m_r$$ satisfies $$z_j^m=1$$ for all $$j$$.  Thus $$H\leq \{z\in\mathbb C : z^m = 1\}.$$
 
-3. Suppose that $$w\in\mathbb C$$ and $$w^m=1$$ for some $$m$$.  Show that $$\langle w\rangle = \{z\in\mathbb C: z^n = 1\}$$, where here $$n$$ is the smallest positive integer satisfying $$w^n=1$$.
+3. Suppose that $$w\in\mathbb C$$ and $$w^m=1$$ for some $$m>0$$.  Show that $$\langle w\rangle = \{z\in\mathbb C: z^n = 1\}$$, where here $$n$$ is the smallest positive integer satisfying $$w^n=1$$.
 
 4. Use Part 3 and the fact that $$\{z\in\mathbb C : z^m = 1\}$$ is cyclic, and that subgroups of cyclic groups are cyclic, to prove that there exists an $$n>0$$ satisfying
 
