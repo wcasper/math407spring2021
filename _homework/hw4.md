@@ -27,9 +27,7 @@ Let $$A$$ be a finite set and $$\sigma\in S_A$$.  Define a relation $$\mathscr R
 * Show that the equivalence class of $$a\in A$$ under $$\mathscr R_\sigma$$ is exactly $$\text{orb}_\sigma(a)$$.  Since the equivalence classes of an equivalence relation form a partition, this shows that the orbits of $$\sigma$$ form a partition of $$A$$
 * Choose $$a_1,a_2,\dots,a_r\in A$$ so that $$\{\text{orb}_\sigma(a_j): 1\leq j\leq r\}$$ is a partition of $$A$$.  For each $$j$$, let $$m_j = \lvert\text{orb}_\sigma(a_j)\rvert$$ and $$a_{jk} = \sigma^k(a_j)$$ for $$1\leq k\leq m_j$$.  Prove that
 
-$$\sigma = (a_{11}\ a_{12}\ \dots\ a_{1m_1})$$
-
-$$\sigma = (a_{11}\ a_{12}\ \dots\ a_{1m_1})(a_{21}\ a_{22}\ \dots\ a_{2m_2})\dots(a_{r1)\ a_{r2}\ \dots\ a_{rm_r}).$$
+$$\sigma = (a_{11}\ a_{12}\ \dots\ a_{1m_1})(a_{11}\ a_{12}\ \dots\ a_{1m_1})(a_{11}\ a_{12}\ \dots\ a_{1m_1})$$
 
 In particular, this shows that $$\sigma$$ can be expressed as a product of **disjoint cycles**.
 
