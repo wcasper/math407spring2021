@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Lecture 7
+title: Lecture 8
 ---
 
 Notes and highlights from lecture
 
 ## Today's Objectives
 
-* Groups of Permutations
+* Group Homomorphisms
+
 
 ## Reading assignments
 
