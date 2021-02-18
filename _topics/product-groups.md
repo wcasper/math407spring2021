@@ -32,4 +32,12 @@ $$(a,b)+(c,d) = (a+b,c+d).$$
 
 The dihedral group $$D_3$$ has the same underlying set, but has a very different binary operation!
 
+**Example:**
+The group $$\mathbb Z_2\times \mathbb Z_3$$ is a finite abelian group of order $$4$$ but is *not* isomorphic to $$\mathbb Z_4$$.  Why not?
+
+**Example:**
+The group $$\mathbb Z_2\times \mathbb Z_3$$ is a finite abelian group of order $$6$$ and is isomorphic to $$\mathbb Z_6$$.
+
+**Example:**
+The set $$\mathbb Z^r = \mathbb Z\times\mathbb Z\times\dots\times\mathbb Z$$ is a direct sum of $$n$$ copies of the abelian group $$\mathbb Z$$
 
