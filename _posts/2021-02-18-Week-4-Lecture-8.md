@@ -7,17 +7,19 @@ Notes and highlights from lecture
 
 ## Today's Objectives
 
-* Group Homomorphisms
-
+* Group homomorphisms
+* Product groups
+* Finitely generated abelian groups
 
 ## Reading assignments
 
-* Read Section 6
-* Start Section 7
+* Section 8
+* Section 9
 
 ## Today's topics
-* <a target="_parent" href="https://wcasper.github.io/math407spring2021/topics/permutation.html">Permutations (link)</a>
 * <a target="_parent" href="https://wcasper.github.io/math407spring2021/topics/group-homomorphism.html">Group Homomorphisms (link)</a>
+* <a target="_parent" href="https://wcasper.github.io/math407spring2021/topics/product-groups.html">Product Groups (link)</a>
+* <a target="_parent" href="https://wcasper.github.io/math407spring2021/topics/finitely-generated-abelian.html">Finitely Generated Abelian Groups (link)</a>
 
 ## Additional resources
 
