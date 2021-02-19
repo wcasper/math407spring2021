@@ -23,7 +23,7 @@ Notes and highlights from lecture
 
 ## Additional resources
 
-**Lecture notes:** <a target="_parent" href="https://wcasper.github.io/math407spring2021/extras/notes/407-lecture7.pdf">notes for lecture (link)</a>
+**Lecture notes:** <a target="_parent" href="https://wcasper.github.io/math407spring2021/extras/notes/407-lecture8.pdf">notes for lecture (link)</a>
 
 
 **Lecture video:** <a target="_parent" href="">recording of lecture (link)</a>
