@@ -26,7 +26,7 @@ Notes and highlights from lecture
 **Lecture notes:** <a target="_parent" href="https://wcasper.github.io/math407spring2021/extras/notes/407-lecture8.pdf">notes for lecture (link)</a>
 
 
-**Lecture video:** <a target="_parent" href="">recording of lecture (link)</a>
+**Lecture video:** <a target="_parent" href="https://fullerton.zoom.us/rec/share/csp05XZLpZFFK2shljKgqgfQO9NKNZhx9MdcXk0riTaBDGn7fYy2uMWi4X08VV8T.gqx5FW-cwDU3xqh9">recording of lecture (link)</a>
 
 The passcode can be found on the <a target="_parent" href="https://csufullerton.instructure.com/courses/3087997/pages/video-lecture-keys">passcode page (link)</a>
 
