@@ -44,7 +44,7 @@ Fill in the gaps in the proof of the following theorem by proving each claim.
 **Theorem:** Suppose that $$G$$ is a group of order $$pq$$ with $$p$$ and $$q$$ prime.  Then either $$G$$ is abelian or $$Z(G) = \{e\}$$.
 
 **Proof:**
-Assume that $$G$$ is not a cyclic group and that $$Z(G) \neq \{e\}$$.  Choose $$x\in Z(G)$$ with $$x\neq e$$.  Note that since $$G$$ is not cyclic, we know $$G\neq \langle x\rangle$$.  Choose an element $$y\in G\backslash \langle x\rangle$$.
+Assume that $$G$$ is not abelian and that $$Z(G) \neq \{e\}$$.  Choose $$x\in Z(G)$$ with $$x\neq e$$.  Note that since $$G$$ is not abelian, we know $$G\neq \langle x\rangle$$.  Choose an element $$y\in G\backslash \langle x\rangle$$.
 
 **Claim:** The orders of $$\langle x\rangle$$ and $$\langle y\rangle$$ are both prime.  
 
