@@ -39,14 +39,22 @@ The **center of a group $$G$$** is the set
 
 $$Z(G) = \{x\in G: ax=xa\ \forall a\in G\}.$$
 
-Suppose that $$G$$ is a group of order $$pq$$ with $$p$$ and $$q$$ prime.  In this problem, we will show that if $$Z(G)$$ is nontrivial, then $$G$$ is a cyclic group in a series of steps. 
+Fill in the gaps in the proof of the following theorem by proving each claim.
 
-* Show that if $$G$$ is not a cyclic group and $$a\neq e$$ then the order of $$\langle a\rangle$$ is either $$p$$ or $$q$$.
-* Show that if $$G$$ is not a cyclic group, then for all $$a,b\in G$$ either $$\langle a\rangle = \langle b\rangle$$ or $$\langle a\rangle\cap\langle b\rangle = \{e\}.$$
-Assume that $$x,y\in G$$ with $$e\neq x\in Z(G)$$ and $$y\notin \langle x\rangle$$.  Without loss of generality, assume that the order of $$\langle x\rangle$$ is $$p$$ and the order of $$\langle y\rangle$$ is $$q$$.  Prove that the map
+**Theorem:** Suppose that $$G$$ is a group of order $$pq$$ with $$p$$ and $$q$$ prime.  Then either $$G$$ is abelian or $$Z(G) = \{e\}$$.
 
-$$\mathbb Z_p\times\mathbb Z_q\rightarrow G,\quad (j,k)\mapsto x^jy^k$$
+**Proof:**
+Assume that $$G$$ is not a cyclic group and that $$Z(G) \neq \{e\}$$.  Choose $$x\in Z(G)$$ with $$x\neq e$$.  Note that since $$G$$ is not cyclic, we know $$G\neq \langle x\rangle$$.  Choose an element $$y\in G\backslash \langle x\rangle$$.
 
-is an isomorphism.
-* Use the previous result to prove that if $$Z(G)\neq \{e\}$$, then $$G$$ must be cyclic.
+**Claim:** The orders of $$\langle x\rangle$$ and $$\langle y\rangle$$ are both prime.  
+
+**Claim:** $$\langle x\rangle\cap \langle y\rangle = \{e\}$$
+
+Thus without loss of generality, we may take the order of $$\langle x\rangle$$ to be $$p$$ and the order of $$\langle y\rangle$$ to be $$q$$.  Now consider the function
+
+$$\varphi: \mathbb Z_p\times\mathbb Z_q\rightarrow G,\quad \varphi(j,k)\mapsto x^jy^k$$
+
+**Claim:** The function $$\varphi$$ is an isomorphism.
+
+Since $$G$$ is isomorphic to $$\mathbb Z_p\times\mathbb Z_q$$, this shows that $$G$$ is abelian.
 
