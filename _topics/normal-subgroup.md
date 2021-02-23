@@ -25,4 +25,8 @@ $$\text{SL}_n(\mathbb C) = \{A\in M_n(\bbc): \det(A) = 1\}.$$
 
 Thus the special linear group is a normal subgroup of the general linear group.
 
+**Theorem:** Let $$H\leq G$$.  Then the following are equivalent.
+* $$H$$ is a normal subgroup of $$G$$
+* $$ghg^{-1}\in H$$ for all $$h\in H$$ and $$g\in G$$
+* every right coset of $$H$$ in $$G$$ is also a left coset
 
