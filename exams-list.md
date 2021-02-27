@@ -1,6 +1,6 @@
 ---
 layout: page
-title: List of Exams
+title: Exams
 permalink: /exams-list/
 ---
 
