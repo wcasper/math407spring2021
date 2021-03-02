@@ -17,7 +17,7 @@ One of the biggest results in the last hundred years of algebra was the classifi
 * alternating group $$A_n$$ for some $$n\geq 5$$
 * groups of Lie type (associated with certain Lie groups)
 * the Tit's group of order $$17971200$$
-* one of $$26$$ other **sporadic groups**, including the **monster group**
+* one of $$26$$ other **sporadic groups**, including the **monster group** whose order is $$808017424794512875886459904961710757005754368000000000$$
 
 To give an example of a simple group coming from Lie theory, think about the following example.
 
