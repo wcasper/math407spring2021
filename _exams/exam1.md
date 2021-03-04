@@ -61,7 +61,7 @@ b) $$\varphi(a^{-1}) = (\varphi(a))^{-1}$$
 
 c) the image of $$\varphi$$
 
-$$\img(\varphi) = \{\varphi(a): a\in G\}$$
+$$\text{img}(\varphi) = \{\varphi(a): a\in G\}$$
 
 is a subgroup of $$G'$$
 
