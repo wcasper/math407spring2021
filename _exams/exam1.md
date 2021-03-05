@@ -71,7 +71,7 @@ A group $$G$$ is called **divisible** if given any $$x\in G$$ andy any integer $
 
 a) Show that the group $$\mathbb Q$$ (with binary operation addition) is divisible.
 
-b) Show that if $$G$$ is a cyclic group, then $$G$$ cannot be divisible.
+b) Show that if $$G$$ is a nontrivial cyclic group, then $$G$$ cannot be divisible.
 
 
 
