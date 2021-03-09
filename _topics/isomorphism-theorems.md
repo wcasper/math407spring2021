@@ -10,14 +10,9 @@ title: Isomorphism Theorems
 
 $$\pi: G\rightarrow G/H,\quad g\mapsto gH.$$
 
-**Theorem:** Let $$\varphi: G\rightarrow G'$$ be a homomorphism of groups with kernel $$K =\ker(\varphi)$$ and let $$\pi: G\rightarrow G/K$$ the quotient map.  Then $$\varphi$$ induces a map $$\widetilde\varphi$$ making the following diagram commute
+**Theorem:** Let $$\varphi: G\rightarrow G'$$ be a homomorphism of groups with kernel $$K =\ker(\varphi)$$ and let $$\pi: G\rightarrow G/K$$ the quotient map.  Then $$\varphi$$ induces a map $$\widetilde\varphi: G/K\rightarrow G'$$ such that $$\varphi$$ factors as the composition
 
-\begin{xymatrix}
-\xymatrix{
-G\ar[r]^\varphi\ar[d]^\pi & H\\
-G/K\ar[ur]_{\widetilde\varphi}
-}
-\end{xymatrix}
+$$G\xrightarrow{\pi} G/K\xrightarrow{\varphi'} G'.$$
 
 ## Second Isomorphism Theorem
 
