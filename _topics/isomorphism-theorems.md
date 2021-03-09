@@ -32,17 +32,17 @@ $$a\mathbb Z + b\mathbb Z = \gcd(a,b)\mathbb Z$$
 
 and also
 
-$$a\mathbb Z\cap b\mathbb Z = \lcm(a,b)\mathbb Z$$.  Thus the second isomorphism theorem tells us
+$$a\mathbb Z\cap b\mathbb Z = \text{lcm}(a,b)\mathbb Z$$.  Thus the second isomorphism theorem tells us
 
-$$\gcd(a,b)\mathbb Z/b\mathbb Z = (a\mathbb Z + b\mathbb Z)/(a\mathbb Z\cap b\mathbb Z)\cong a\mathbb Z/(a\mathbb Z\cap b\mathbb Z) = a\mathbb Z/\lcm(a,b)\mathbb Z$$
+$$\gcd(a,b)\mathbb Z/b\mathbb Z = (a\mathbb Z + b\mathbb Z)/(a\mathbb Z\cap b\mathbb Z)\cong a\mathbb Z/(a\mathbb Z\cap b\mathbb Z) = a\mathbb Z/\text{lcm}(a,b)\mathbb Z$$
 
 Comparing the orders of the groups above on the left and the right, we find
 
-$$\frac{b}{\gcd(a,b)} = \frac{\lcm(a,b)}{a}.$$
+$$\frac{b}{\gcd(a,b)} = \frac{\text{lcm}(a,b)}{a}.$$
 
 Hence we obtain the usual formula from number theory
 
-$$\frac{ab}{\gcd(a,b)} = \lcm(a,b).$$
+$$\frac{ab}{\gcd(a,b)} = \text{lcm}(a,b).$$
 
 ## Third Isomorphism Theorem
 
