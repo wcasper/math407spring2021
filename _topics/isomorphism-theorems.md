@@ -15,7 +15,7 @@ $$\pi: G\rightarrow G/H,\quad g\mapsto gH.$$
 $$\xymatrix{
 G\ar[r]^\varphi\ar[d]^\pi & H\\
 G/K\ar[ur]_{\widetilde\varphi}
-$$}
+}$$
 
 ## Second Isomorphism Theorem
 
