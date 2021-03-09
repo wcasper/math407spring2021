@@ -10,9 +10,9 @@ title: Isomorphism Theorems
 
 $$\pi: G\rightarrow G/H,\quad g\mapsto gH.$$
 
-**Theorem: (First Isomorphism Theorem)** Let $$\varphi: G\rightarrow G'$$ be a homomorphism of groups with kernel $$K =\ker(\varphi)$$ and let $$\pi: G\rightarrow G/K$$ the quotient map.  Then $$\varphi$$ induces an isomorphism $$\widetilde\varphi: G/K\rightarrow \img(\varphi)$$ such that $$\varphi$$ factors as the composition
+**Theorem: (First Isomorphism Theorem)** Let $$\varphi: G\rightarrow G'$$ be a homomorphism of groups with kernel $$K =\ker(\varphi)$$ and let $$\pi: G\rightarrow G/K$$ the quotient map.  Then $$\varphi$$ induces an isomorphism $$\widetilde\varphi: G/K\rightarrow \text{img}(\varphi)$$ such that $$\varphi$$ factors as the composition
 
-$$G\xrightarrow{\pi} G/K\xrightarrow{\varphi'} \img(\varphi) \subseteq G'.$$
+$$G\xrightarrow{\pi} G/K\xrightarrow{\varphi'} \text{img}(\varphi) \subseteq G'.$$
 
 ## Second Isomorphism Theorem
 
@@ -26,7 +26,7 @@ $$H\vee N = \langle \{hn: h\in H,\ n\in N\}\rangle.$$
 
 $$HN/N\cong H/(H\cap N)$$
 
-**Ex:** Let $$a,b\in\mathbbZ$$.  Then
+**Ex:** Let $$a,b\in\mathbb Z$$.  Then
 
 $$a\mathbb Z + b\mathbb Z = \gcd(a,b)\mathbb Z$$
 
