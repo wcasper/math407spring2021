@@ -22,16 +22,23 @@ If you wish to use the second method and don't own a scanner at home, you can ch
 **Problem 2:** In the group $$\mathbb Z_{24}$$ let $$H = \langle 4\rangle$$ and $$N = \langle 6\rangle$$.
 
 a) List the elements in $$H+N$$
+
 b) list the cosets in $$(H+N)/N$$, showing the elements in each coset
+
 c) List the cosets in $$H/(H\cap N)$$ showing the elements in each coset
+
 d) Give the correspondence between $$H/(H\cap N)$$ and $$(H+N)/N$$ guaranteed by the Second Isomorphism Theorem.
 
 **Problem 3:** In the group $$\mathbb Z_{24}$$ let $$H = \langle 4\rangle$$ and $$K = \langle 8\rangle$$.
 
 a) List the elements in $$G/H$$, showing the elements in each coset
+
 b) List the cosets in $$G/K$$, showing the elements in each coset
+
 c) List the cosets in $$H/K$$, showing the elements in each coset
+
 d) List the cosets in $$(G/K)/(H/K)$$, showing the elements in each coset
+
 e) Give the correspondence between $$(G/K)/(H/K)$$ and $$G/H$$ guaranteed by the Third Isomorphism Theorem.
 
 **Problem 4:** In a quantum computer, data is stored in **qubits**, which mathematically are represented by elements $$\binom{z}{w}\in\mathbb C^2$$.  A quantum computer modifies a single qubit using **1-qubit quantum circuits**, which mathematically are represented by $$2\times 2$$ matrices in the **projective general linear group**
