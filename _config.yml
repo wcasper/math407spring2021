@@ -54,7 +54,7 @@ header_pages:
  - extras/syllabus.md
  - topics-list.md
  - homework-list.md
-# - exams-list.md
+ - exams-list.md
 
 # Build settings
 theme: minima
