@@ -28,7 +28,7 @@ d) Give the correspondence between $$H/(H\cap N)$$ and $$(H+N)/N$$ guaranteed by
 
 **Problem 3:** In the group $$\mathbb Z_{24}$$ let $$H = \langle 4\rangle$$ and $$K = \langle 8\rangle$$.
 
-a) List the elements in $$G/H$, showing the elements in each coset
+a) List the elements in $$G/H$$, showing the elements in each coset
 b) List the cosets in $$G/K$$, showing the elements in each coset
 c) List the cosets in $$H/K$$, showing the elements in each coset
 d) List the cosets in $$(G/K)/(H/K)$$, showing the elements in each coset
