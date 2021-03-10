@@ -49,7 +49,7 @@ Prove that $$\text{PGL}_2(\mathbb C)$$ is also isomorphic to the **projective sp
 
 $$\text{PSL}_2(\mathbb C) = \text{SL}_2(\mathbb C)/\{\pm I\}.$$
 
-**Problem 5:** A **Mobius transformation** is a complex valued function $$\chi$$ of the form $$\chi(z) = \frac{az + b}{cz + d}$$ for some complex numbers $$a,b,c,d\in\mathbb C$$ with $$ad\neq bc$$.  Prove that the set $$\mathcal M$$ of all Mobius transformations is a group under composition.  This group is called the **Mobius group**.  Prove that $$\mathcal M$$ is isomorphic to $$\text{PGL}_2(\mathbb C)$$.
+**Problem 5:** A **Mobius transformation** is a complex valued function $$\chi$$ of the form $$\chi(z) = \frac{az + b}{cz + d}$$ for some complex numbers $$a,b,c,d\in\mathbb C$$ with $$ad\neq bc$$.  Prove that the set $$\mathcal M$$ of all Mobius transformations is a group under composition.  Prove that $$\mathcal M$$ is isomorphic to $$\text{PGL}_2(\mathbb C)$$.  The group $$\mathcal M$$ is called the **Mobius group**.
 
 
 
