@@ -16,7 +16,7 @@ If you wish to use the second method and don't own a scanner at home, you can ch
 **Problem 1:** Classify each of the following finitely generated abelian groups by determining an isomorphic group in either prime divisor or invariant factor form.
 * $$(\mathbb Z_4\oplus\mathbb Z_4\oplus\mathbb Z_8)/\langle (1,2,4)\rangle$$
 * $$(\mathbb Z\oplus\mathbb Z)/\langle (0,1)\rangle$$
-* $$(|mathbb Z\oplus \mathbb Z\oplus \mathbb Z)/(\langle (3,3,3)\rangle)$$
+* $$(\mathbb Z\oplus \mathbb Z\oplus \mathbb Z)/(\langle (3,3,3)\rangle)$$
 * $$(\mathbb Z\oplus\mathbb Z\oplus \mathbb Z_2)/\langle(1,1,1)\rangle$$
 
 **Problem 2:** In the group $$\mathbb Z_{24}$$ let $$H = \langle 4\rangle$$ and $$N = \langle 6\rangle$$.
