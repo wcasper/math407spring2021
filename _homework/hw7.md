@@ -32,6 +32,7 @@ $$\left(\begin{array}{cc}2 & 4 & 4\\ -6 & 6 & 12\\ 10 & 4 & 16\end{array}\right)
 
 **Problem 5:** Let $$G = F(\{x,y\})$$ be the free group on two generators $$x$$ and $$y$$.
 We can understand the free group on two generators in terms of a loop of rope knotted around two posts stuck in the yard, as shown in the figure below.
+This is an example of a **fundamental group**.
 
 ![Symmetries of the triangle](../fig/free-group.png)
 
