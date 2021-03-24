@@ -30,7 +30,7 @@ $$\left(\begin{array}{cc}2 & 4 & 4\\ -6 & 6 & 12\\ 10 & 4 & 16\end{array}\right)
 
 * (b) Find the finitely generated abelian group in invariant factor form that $$G/H$$ is isomorphic to.
 
-**Problem 5:** Let $$G = F(\{x,y\})$ be the free group on two generators $$x$$ and $$y$$.
+**Problem 5:** Let $$G = F(\{x,y\})$$ be the free group on two generators $$x$$ and $$y$$.
 We can understand the free group on two generators in terms of a loop of rope knotted around two posts stuck in the yard, as shown in the figure below.
 
 ![Symmetries of the triangle](../fig/free-group.png)
