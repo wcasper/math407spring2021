@@ -52,7 +52,7 @@ b) Determine what finite abelian group $$G/H$$ is isomorphic to in invariant fac
 ## Problem 5
 
 Let $$N$$ be a normal subgroup of $$G$$ with $$[G:N] = n$$.
-Show that $$x^n\in H$$ for all $$x\in G$$.
+Show that $$x^n\in N$$ for all $$x\in G$$.
 
 ## Problem 6
 
