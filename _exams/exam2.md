@@ -60,7 +60,7 @@ Note that the group in problem $$3$$ is a special case.
 
 The group $$G$$ has a natural action on the set $$X$$ of nonzero vectors in $$\mathbb Z_p^2:$$
 
-$$X = \{\binom{a}{b}: a,b\in \mathbb Z_3,\ \text{where $a$ and $b$ are not both zero\}.$$
+$$X = \{\binom{a}{b}: a,b\in \mathbb Z_3,\ \text{where $a$ and $b$ are not both zero}\}.$$
 
 The action is given by matrix multiplication $$A\cdot \vec x = A\vec x$$, ie.
 
