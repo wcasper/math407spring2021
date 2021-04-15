@@ -56,11 +56,11 @@ Prove that the quotient group $$G/H$$ is also cyclic.
 
 Fix a prime integer $$p$$.
 Let $$G$$ be the group of $$2\times 2$$ invertible matrices with entries in $$\mathbb Z_p$$, where the group operation is matrix multiplication but where the multiplication and addition of entries is modular.
-Note that the group in problem $$3$$ is a special case.
+Note that the group in Problem $$3$$ is a special case.
 
 The group $$G$$ has a natural action on the set $$X$$ of nonzero vectors in $$\mathbb Z_p^2:$$
 
-$$X = \left\lbrace\binom{a}{b}: a,b\in \mathbb Z_3,\ \text{where $a$ and $b$ are not both zero}\right\rbrace.$$
+$$X = \left\lbrace\binom{a}{b}: a,b\in \mathbb Z_p,\ \text{where $a$ and $b$ are not both zero}\right\rbrace.$$
 
 The action is given by matrix multiplication $$A\cdot \vec x = A\vec x$$, ie.
 
