@@ -19,9 +19,10 @@ For each of the following examples of rings, determine with explanation whether 
 
 * (a) $$\mathbb Z$$
 * (b) $$\mathbb Z\times\mathbb Z$$
-* (c) $$\mathbb Z[x]$$
-* (d) the set of $$2\times 2$$ matrices with coefficients in $$\mathbb C$$
-* (e) $$\mathbb Q[x]/I$$ for $$I$$ the principal ideal $$I = \langle x^2-1\rangle$$
+* (c) $$\mathbb Z_{15}$$
+* (d) $$\mathbb Z[x]$$
+* (e) the set of $$2\times 2$$ matrices with coefficients in $$\mathbb C$$
+* (f) $$\mathbb Q[x]/I$$ for $$I$$ the principal ideal $$I = \langle x^2-1\rangle$$
 
 **Problem 2:**
 
@@ -47,19 +48,19 @@ For many numbers it is difficult to determine whether or not the number is trans
 
 A **Liouville number** is an irrational number $$\alpha$$ satisfying the property that for every positive integer $$n>0$$, there are integers $$a$$ and $$b$$ with $$b>1$$ and
 
-$$|\alpha - a/b| < 1/b^n.$$
+$$\lvert\alpha - a/b\rvert < 1/b^n.$$
 
 In this problem, we will prove that Liouville numbers are transcendental.
 The proof of this algebraic fact is particularly interesting, given its reliance on *analysis*.
 
-Let $$\alpha$$ be an irrational number which is *not* transcendental, and in particular is a simple root of a nonzero polynomial $$f(x)\in \mathbb Z[x]$$ of degree $$d$$.  Choose $$r>0$$ such that $$\alpha$$ is the only root of $$f(x)$$ on $$[\alpha-r,\alpha+r]$$ is $$\alpha$$ and let $$M = \max\{|f'(x)|: |x-\alpha|\leq r\}.$$
+Let $$\alpha$$ be an irrational number which is *not* transcendental, and in particular is a simple root of a nonzero polynomial $$f(x)\in \mathbb Z[x]$$ of degree $$d$$.  Choose $$r>0$$ such that $$\alpha$$ is the only root of $$f(x)$$ on $$[\alpha-r,\alpha+r]$$ is $$\alpha$$ and let $$M = \max\{\lvert f'(x)\rvert : \lvert x-\alpha\rvert \leq r\}.$$
 By the Mean Value Theorem
 
-$$|f(x)| = |f(x)-f(\alpha)|\leq |x-\alpha|M\quad\text{for all}\ |x-\alpha|\leq r.$$
+$$\lvert f(x)\rvert = \lvert f(x)-f(\alpha)\rvert\leq \lvert x-\alpha\rvert M\quad\text{for all}\ \lvert x-\alpha\rvert\leq r.$$
 
-* (a) Suppose that $$a,b$$ are integers with $$b>0$$ and $$|x-a/b|\leq r$$.  Show that $$1/b^d < |f(a/b)|$ and use the above inequality to prove
+* (a) Suppose that $$a,b$$ are integers with $$b>0$$ and $$\lvert x-a/b\rvert \leq r$$.  Show that $$1/b^d < \lvert f(a/b)\rvert$ and use the above inequality to prove
 
-$$\frac{1}{b^dM} < |\alpha-a/b|.$$
+$$\frac{1}{b^dM} < \lvert \alpha-a/b\rvert.$$
 
 * (b) Now choose $$n>0$$ such that $$2^n>\max(1/M,1/r)$$.  Note that this means $$b^n>\max(1/M,1/r)$$ for any integer $$b>1$$.  Use the result of part (a) to show that $$\alpha$$ cannot be a Liouville number.  Thus all Liouville numbers must be transcendental.
 
