@@ -8,7 +8,7 @@ permalink: /homework/hw8
 Solve the following problems and type up your solutions.  Your solutions should be provided in one of the following formats (in order of preference)
 * typed up in $$\LaTeX$$ and submitted as a PDF on Canvas
 * written legibly on blank paper, scanned into a PDF and then uploaded on Canvas
-* submitted to David X. Cohen to be included inconspicuously in an upcoming episode of The Simpsons.
+* composed into a Shakespearean sonnet performed by Patrick Stewart and submitted via audio tape
 
 If you go with the first strategy, you may wish to check out Overleaf which is a free and intuitive website for generating $$\LaTeX$$ documents online.
 If you wish to use the second method and don't own a scanner at home, you can check out the numerous scanning apps available for smartphones.
@@ -41,7 +41,7 @@ For each of the following field extensions of $$\mathbb Q$$, describe the field 
 
 * (a) $$\mathbb Q[\sqrt{-5}]$$
 * (b) $$\mathbb Q[\sqrt[3]{2}]$$
-* (c) $$\mathbb Q[\sqrt{2} + i\sqrt{2}$$
+* (c) $$\mathbb Q[\sqrt{2} + i\sqrt{2}]$$
 
 **Problem 4:**
 For many numbers it is difficult to determine whether or not the number is transcendental.
