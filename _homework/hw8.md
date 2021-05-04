@@ -58,17 +58,19 @@ By the Mean Value Theorem
 
 $$\lvert f(x)\rvert = \lvert f(x)-f(\alpha)\rvert\leq \lvert x-\alpha\rvert M\quad\text{for all}\ \lvert x-\alpha\rvert\leq r.$$
 
-* (a) Suppose that $$a,b$$ are integers with $$b>0$$ and $$\lvert x-a/b\rvert \leq r$$.  Show that $$1/b^d < \lvert f(a/b)\rvert$$ and use the above inequality to prove
+* (a) Suppose that $$a,b$$ are integers with $$b>0$$ and $$\lvert x-a/b\rvert \leq r$$.  Show that $$1/b^d \leq \lvert f(a/b)\rvert$$ and use the above inequality to prove
 
-$$\frac{1}{b^dM} < \lvert \alpha-a/b\rvert.$$
+$$\frac{1}{b^dM} \leq \lvert \alpha-a/b\rvert.$$
 
-* (b) Now choose $$n>0$$ such that $$2^n>\max(1/M,1/r)$$.  Note that this means $$b^n>\max(1/M,1/r)$$ for any integer $$b>1$$.  Use the result of part (a) to show that $$\alpha$$ cannot be a Liouville number.  Thus all Liouville numbers must be transcendental.
+* (b) Now choose $$n>0$$ such that $$2^n>\max(M,1/r)$$.  Note that this means $$b^n>\max(M,1/r)$$ for any integer $$b>1$$.  Use the result of part (a) to show that $$\alpha$$ cannot be a Liouville number.  To do this, show that for $$m=n+d+1$$ that there are no integers $$a$$ and $$b$$ with $$b>1$$ satisfying $$\lvert\alpha - a/b\rvert < 1/b^n$$.
+
+Thus all Liouville numbers must be transcendental.
 
 * (c) Use the result of (b) to prove that the number
 
 $$\alpha = \sum_{k=0}^\infty \frac{1}{10^{k!}}$$
 
-is transcendental.
+is transcendental.  [Hint: for a given $$n$$, take $$a = \sum_{k=0}^n 10^{n!-k!}$$ and $$b = 10^{n!}$$.]
 
 
 
