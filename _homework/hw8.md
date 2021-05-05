@@ -58,7 +58,7 @@ By the Mean Value Theorem
 
 $$\lvert f(x)\rvert = \lvert f(x)-f(\alpha)\rvert\leq \lvert x-\alpha\rvert M\quad\text{for all}\ \lvert x-\alpha\rvert\leq r.$$
 
-* (a) Suppose that $$a,b$$ are integers with $$b>0$$ and $$\lvert x-a/b\rvert \leq r$$.  Show that $$1/b^d \leq \lvert f(a/b)\rvert$$ and use the above inequality to prove
+* (a) Suppose that $$a,b$$ are integers with $$b>0$$ and $$\lvert \alpha-a/b\rvert \leq r$$.  Show that $$1/b^d \leq \lvert f(a/b)\rvert$$ and use the above inequality to prove
 
 $$\frac{1}{b^dM} \leq \lvert \alpha-a/b\rvert.$$
 
