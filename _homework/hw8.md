@@ -64,7 +64,7 @@ $$\frac{1}{b^dM} \leq \lvert \alpha-a/b\rvert.$$
 
 [Hint: rewrite $$f(a/b)$$ as an integer over $$b^d$$.]
 
-* (b) Now choose $$n>0$$ such that $$2^n>\max(M,1/r)$$.  Note that this means $$b^n>\max(M,1/r)$$ for any integer $$b>1$$.  Use the result of part (a) to show that $$\alpha$$ cannot be a Liouville number.  To do this, show that for $$m=n+d+1$$ that there are no integers $$a$$ and $$b$$ with $$b>1$$ satisfying $$\lvert\alpha - a/b\rvert < 1/b^n$$.
+* (b) Now choose $$n>0$$ such that $$2^n>\max(M,1/r)$$.  Note that this means $$b^n>\max(M,1/r)$$ for any integer $$b>1$$.  Use the result of part (a) to show that $$\alpha$$ cannot be a Liouville number.  To do this, show that for $$m=n+d+1$$ that there are no integers $$a$$ and $$b$$ with $$b>1$$ satisfying $$\lvert\alpha - a/b\rvert < 1/b^m$$.
 
 Thus all Liouville numbers must be transcendental.
 
