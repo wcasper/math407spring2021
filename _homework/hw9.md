@@ -34,7 +34,7 @@ Give examples of each of the following
 Let $$E = \mathbb Q[\sqrt{2},\sqrt{3},\sqrt{5}]$$.  Determine each of the following
 
 * (a) The degree of the extension $$[E:\mathbb Q]$$
-* (b) The degree of the extension $$[E:\mathbb Q[\sqrt{2}]$$
+* (b) The degree of the extension $$[E:\mathbb Q[\sqrt{2}]]$$
 * (c) The explicit values of the elements of the Galois group $$G(E/\mathbb Q)$$ and what group we have seen before that this is isomorphic to.
 
 **Problem 4:**
