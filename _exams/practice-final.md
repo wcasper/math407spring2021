@@ -17,7 +17,7 @@ Let $$F$$ be a field, $$E$$ an extension field of $$F$$ and $$G = G(E/F)$$.
 
 * (b) If $$f(x)\in F[x]$$ and $$a\in E$$ is a root of $$f(x)$$, then $$\sigma(a)$$ is also a root of $$f(x)$$
 
-* (c) If $$E/F$$ is a Galois extension, then $$|G| = [E:F]$$
+* (c) If $$E/F$$ is a Galois extension, then $$\lvert G\rvert = [E:F]$$
 
 * (d) If $$f(x)\in F(x)$$ is irreducible, then all of the roots of $$f(x)$$ must be different
 
