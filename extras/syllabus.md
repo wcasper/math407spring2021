@@ -52,10 +52,9 @@ You can get free and low-cost software for being an active CUSF student.  Softwa
 ## Grading
 ### Grading scheme
 
-* Homework: 25%
-* Quizzes: 15%
-* Midterm Exams: 2 at 15% each
-* Final Exam: 30%
+* Homework: 32%
+* Midterm Exams: 2 at 17% each
+* Final Exam: 34%
 
 ### Grading scale (tentative)
 
@@ -118,7 +117,7 @@ Midterms will be held during class time in our Zoom meeting on the following dat
 
 **Final Exam**
 The final exam will be cumulative with both written and computational parts, and will account for 30\% of your grade.
-It will be held in our Zoom meeting on FIXME
+It will be held in our Zoom meeting on Tuesday, May 18 from 5PM-7PM
 
 ## Important academic calendar dates
 * January 23 to January 31: No signatures required to add or drop most classes. Add/Drop is through TITAN Online.
