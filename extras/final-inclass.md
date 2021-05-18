@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Final Exam In-Class Portion
-permalink: /extras/final-inclass
+permalink: /exams/final-inclass
 ---
 
 Solve each of the following problems.
