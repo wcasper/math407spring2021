@@ -83,7 +83,7 @@ Let $$R$$ be a ring and $$F$$ be a field.  Prove that if $$\varphi: F\rightarrow
 
 ## Problem 7
 
-Let $$p$$ be prime and let $$E$$ be a finite field of order $$q = p^n$$.
+Let $$p$$ be prime and let $$E$$ be a finite field of order $$q = p^n$$ and let $$1$$ denote the multiplicative identity of $$E$$.
 
 The function
 
