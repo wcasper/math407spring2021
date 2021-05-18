@@ -124,7 +124,7 @@ $$
 $$
 \mathbb Z_8\times\mathbb Z_3\times \mathbb Z_3,
 \mathbb Z_2\times\mathbb Z_4\times\mathbb Z_3\times \mathbb Z_3,
-\mathbb Z_2\times\mathbb Z_2\times\mathbb Z_2\times\mathbb \mathbb Z_3\times \mathbb Z_3,
+\mathbb Z_2\times\mathbb Z_2\times\mathbb Z_2\times\mathbb Z_3\times \mathbb Z_3,
 $$
 
 
