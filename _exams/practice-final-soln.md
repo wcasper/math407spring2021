@@ -43,7 +43,7 @@ A field extension $$F\subseteq E$$ is normal if every polynomial $$f(x)\in F[x]$
 
 Let $$f: R\rightarrow S$$ be a ring homomorphism.  Then $$f$$ induces an isomorphism
 
-$$R/\ker(f)\rightarrow\img(f),\quad r + \ker(f) \mapsto f(r).$$
+$$R/\ker(f)\rightarrow\text{img}(f),\quad r + \ker(f) \mapsto f(r).$$
 
 * (c) Write down the defifnition of an ideal $$I$$ of a commutative ring $$R$$.
 
@@ -123,7 +123,7 @@ $$
 
 $$
 \mathbb Z_8\times\mathbb Z_3\times \mathbb Z_3,
-\mathbb Z_2\times\mathbb Z_4\times\mathbb \mathbb Z_3\times \mathbb Z_3,
+\mathbb Z_2\times\mathbb Z_4\times\mathbb Z_3\times \mathbb Z_3,
 \mathbb Z_2\times\mathbb Z_2\times\mathbb Z_2\times\mathbb \mathbb Z_3\times \mathbb Z_3,
 $$
 
@@ -162,7 +162,7 @@ we see that $$(a,b)$$ has inverse $$(a^{-1},-a^{-2}b)$$ so that $$G$$ is a group
 
 An alternative, clever proof of the fact that $$G$$ is a group is to realize that
 
-$$\psi: G\mapsto \text{GL}_2(\mathbb Q),\quad (a,b)\mapsto left(\begin{array}{cc}
+$$\psi: G\mapsto \text{GL}_2(\mathbb Q),\quad (a,b)\mapsto \left(\begin{array}{cc}
 a & b\\ 0 & a
 \end{array}\right)$$
 
