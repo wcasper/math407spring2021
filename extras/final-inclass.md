@@ -25,7 +25,7 @@ Note: you may NOT use a theorem or result from class to prove something when it 
 * (a) Let $$R$$ be a commutative ring.  Write the definition of $$I$$ being an ideal of $$R$$.
 * (b) Let $$E$$ be a field extension of a field $$F$$ and let $$a\in E$$.  Write the definition of $$a$$ being algebraic over $$F$$.
 * (c) Write the Structure Theorem for finitely generated abelian groups in invariant factor form.
-* (d) Let $$E$$ be a field extension of $$F$$.  Define what it means for a polynomial $$f(x)\in F[x]$$ to split over $$E$$.
+* (d) Let $$E$$ be a field extension of $$F$$.  Define what it means for $$f(x)\in F[x]$$ to split over $$E$$.
 * (e) Give an example of a field extension which is not normal.
 
 ## Problem 3
