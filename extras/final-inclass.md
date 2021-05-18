@@ -11,7 +11,7 @@ Note: you may NOT use a theorem or result from class to prove something when it 
 
 ## Problem 1
 
-**True or False.**  For each of the following questions, write TRUE if the statment is true and FALSE if the statement is FALSE.
+**True or False.**  For each of the following questions, write TRUE if the statment is true and FALSE if the statement is FALSE. No justification is necessary.
 
 * (a) If $$H$$ is a normal subgroup of $$G$$ and $$K$$ is a normal subgroup of $$H$$, then $$K$$ is a normal subgroup of $$G$$.
 * (b) Up to isomorphism, there are exactly $$6$$ abelian groups of order $$54$$.
@@ -55,7 +55,7 @@ Show that $$H$$ is order $$4$$ and is not a normal subgroup of $$G$$.
 
 For each of the following rings, determine whether the ring is isomorphic to $$\mathbb Q[\sqrt{3}]$$.
 If the two rings are isomorphic, provide an explicit isomorphism.
-If the two rings are not isomorphic, explain why no isomorphism exists.
+If the two rings are not isomorphic, carefully explain why no isomorphism exists.
 
 * (a) $$\mathbb Q[x]/(x^2-3)$$
 * (b) $$\mathbb Q \times \mathbb Q.$$
@@ -67,7 +67,15 @@ Let $$\mathcal C(R)$$ be the ring of continuous functions $$\mathbb R\rightarrow
 
 $$f+g: x\mapsto f(x) + g(x),\quad fg: x\mapsto f(x)g(x),\ \forall x\in\mathbb R.$$
 
-Prove that $$\mathcal C(R)$$ is **not** an integral domain.
+* (a) Prove that $$\mathcal C(R)$$ is **not** an integral domain.
+* (b) Determine, with careful justification, which of the following subsets of $$\mathcal C(R)$$ are ideals 
+
+$$I = \{f(x)\in\mathcal C(x): f(2) = f(3).\}$$
+
+$$J = \{f(x)\in\mathcal C(x): f(2) = 0,\ \text{and}\ f(3) = 0\}.$$
+
+$$Q = \{f(x)\in\mathcal C(x): f(2) = 0,\ \text{or}\ f(3) = 0\}.$$
+
 
 ## Problem 6
 Let $$R$$ be a ring and $$F$$ be a field.  Prove that if $$\varphi: F\rightarrow R$$ is a ring homomorphism, then either $$\text{img}(\varphi) = \{0\}$$ or else $$\varphi$$ is injective.
@@ -83,7 +91,7 @@ $$\varphi: E\rightarrow E,\quad \varphi(x) = x^p$$
 
 defines a field automorphism of $$E$$.
 
-* (a) Prove that the subfield $$F = \{a\in E: \varphi(a)=a\}$$$ of $$E$$ fixed by $$\varphi$$ has order $$p$$.
+* (a) Prove that the subfield $$F = \{a\in E: \varphi(a)=a\}$$$ of $$E$$ fixed by $$\varphi$$ is $$\{0,1,2,\dots,p-1\}$$.  [Hint: remember that a $$x^p-x$$ has at most $$n$$ roots]
 
 * (b) Show that if $$V$$ is an $$d$$-dimensional vector space over $$F$$, then $$V$$ has $$p^d$$ elements.  Conclude that $$[E: F] = n$$.
 
