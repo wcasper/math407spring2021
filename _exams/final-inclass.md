@@ -64,12 +64,12 @@ If the two rings are not isomorphic, carefully explain why no isomorphism exists
 
 ## Problem 5
 
-Let $$\mathcal C(R)$$ be the ring of continuous functions $$\mathbb R\rightarrow\mathbb R$$ where the sum $$f+g$$ and product $$fg$$ of two functions $$f,g\in R$$ are the functions defined by
+Let $$\mathcal C(\mathbb R)$$ be the ring of continuous functions $$\mathbb R\rightarrow\mathbb R$$ where the sum $$f+g$$ and product $$fg$$ of two functions $$f,g\in \mathcal C(\mathbb R)$$ are the functions defined by
 
 $$f+g: x\mapsto f(x) + g(x),\quad fg: x\mapsto f(x)g(x),\ \forall x\in\mathbb R.$$
 
-* (a) Prove that $$\mathcal C(R)$$ is **not** an integral domain.
-* (b) Determine, with careful justification, which of the following subsets of $$\mathcal C(R)$$ are ideals 
+* (a) Prove that $$\mathcal C(\mathbb R)$$ is **not** an integral domain.
+* (b) Determine, with careful justification, which of the following subsets of $$\mathcal C(\mathbb R)$$ are ideals 
 
 $$I = \{f(x)\in\mathcal C(x): f(2) = f(3).\}$$
 
