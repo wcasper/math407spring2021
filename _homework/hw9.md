@@ -49,7 +49,7 @@ Consider the polynomial $$f(x) = x^3+2\in \mathbb Q[x]$$.
 
 **Problem 5:**
 
-Let $$E$$ be a normal extension of a field $$F$$.  For any $$a\in E$$ we define the **norm** $$N_{E/F}(a)$$ and **trace** $$Tr_{E/F}(a)$$ of $$a$$ over $$F$$ to be
+Let $$E$$ be a separable and normal extension of a field $$F$$.  For any $$a\in E$$ we define the **norm** $$N_{E/F}(a)$$ and **trace** $$Tr_{E/F}(a)$$ of $$a$$ over $$F$$ to be
 
 $$N_{E/F}(a) = \prod_{\sigma\in G(E/F)} \sigma(a)$$
 
