@@ -92,7 +92,7 @@ $$\varphi: E\rightarrow E,\quad \varphi(x) = x^p$$
 
 defines a field automorphism of $$E$$.
 
-* (a) Prove that the subfield $$F = \{a\in E: \varphi(a)=a\}$$ of $$E$$ fixed by $$\varphi$$ is $$\{0,1,2,\dots,p-1\}$$.  [Hint: remember that a $$x^p-x$$ has at most $$n$$ roots]
+* (a) Prove that the subfield $$F = \{a\in E: \varphi(a)=a\}$$ of $$E$$ fixed by $$\varphi$$ is $$\{0,1,2,\dots,p-1\}$$.  [Hint: remember that a $$x^p-x$$ has at most $$p$$ roots]
 
 * (b) Show that if $$V$$ is an $$d$$-dimensional vector space over $$F$$, then $$V$$ has $$p^d$$ elements.  Conclude that $$[E: F] = n$$.
 
